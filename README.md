@@ -1,5 +1,5 @@
 # Sobre o Projeto
-Uma API RESTful de produtos que eu criei enquanto estudava sobre o Java Spring Boot, créditos à [Michelli Brito](https://www.youtube.com/watch?v=wlYvA2b1BWI) pela excelente didática.
+Uma API RESTful de produtos que eu criei enquanto estudava sobre o Java Spring Boot, créditos à [Michelli Brito](https://www.youtube.com/watch?v=wlYvA2b1BWI) pela excelente didática. Além disso, realizei algumas anotações durante meus estudos [aqui](https://jporcel.notion.site/Anota-es-sobre-o-Spring-Boot-e-Spring-Framework-193352e1cc394c1d89159c6b1af71504?pvs=4).
 
 # O que é uma API RESTful
 Segundo Leonard Richardson, uma API RESTful, é uma API que adere aos princípios e restrições da arquitetura REST (Representational State Transfer), organizada em diferentes níveis de maturidade conforme descritos por Richardson e seu co-autor Sam Ruby.
