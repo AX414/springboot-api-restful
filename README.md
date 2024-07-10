@@ -21,7 +21,7 @@ Portanto, uma API RESTful segundo o modelo de maturidade de Leonard Richardson n
 * Spring Validation
 * Spring Hateoas
 
-#Banco de Dados:
+# Banco de Dados:
 * Posgres
 * Nome do esquema é "products-api" e senha "admin123"
 
